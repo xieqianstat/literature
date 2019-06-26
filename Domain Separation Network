@@ -5,7 +5,7 @@ https://arxiv.org/pdf/1608.06019.pdf
 L = L_task + αL_recon + βL_difference + γL_similarit
 
 L_difference = |H_c^T H_p|_F (source) + |H_c^T H_p|_F (target), where ||_F denotes frobenious norm. 
-If two matrix are orthogonal, then |I|_F is maximized.
+If two matrix are orthogonal, ||_F is minimized as zero.
 
 L_similarity = domain adversarial similarity loss
 Unsupervised Domain Adaptation by Backpropagation (2015 cited 821): http://proceedings.mlr.press/v37/ganin15.pdf
