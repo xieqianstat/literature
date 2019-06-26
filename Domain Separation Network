@@ -7,6 +7,7 @@ L_difference = |H_c^T H_p|_F (source) + |H_c^T H_p|_F (target), where ||_F denot
 If two matrix are orthogonal, then |I|_F is maximized.
 
 L_similarity = domain adversarial similarity loss
+Unsupervised Domain Adaptation by Backpropagation: http://proceedings.mlr.press/v37/ganin15.pdf
 
 
 Data: source domain with label for a classification task, target domain with no label. 
