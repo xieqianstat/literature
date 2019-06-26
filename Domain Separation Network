@@ -16,3 +16,4 @@ Data: source domain with label for a classification task, target domain with no 
 Result: claimed better performance over MMD and DANN by adopting DSN.
 
 
+Some code: https://github.com/tensorflow/models/tree/master/research/domain_adaptation
