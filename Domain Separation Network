@@ -1,5 +1,6 @@
 
-https://arxiv.org/pdf/1608.06019.pdf
+https://arxiv.org/pdf/1608.06019.pdf 
+(NIPS 2016, cited 320)
 
 L = L_task + αL_recon + βL_difference + γL_similarit
 
