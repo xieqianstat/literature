@@ -12,4 +12,6 @@ Domain-Adversarial Training of Neural Networks (2015, cited 906): https://arxiv.
 
 Data: source domain with label for a classification task, target domain with no label. 
 
+Result: claimed better performance over MMD and DANN by adopting DSN.
+
 
